@@ -1,6 +1,6 @@
 # Здесь представлены мои проекты и образцы тестовой документации.
-### В проектах Яндекс Практикума чек-листы, тест-кейсы и баг-репорты находятся на разных вкладках внутри одного документа.
-## Яндекс Практикум
+### В проектах Яндекса чек-листы, тест-кейсы и баг-репорты находятся на разных вкладках внутри одного документа.
+## Яндекс
 - [Тестирование веб- и мобильного приложения, а также API сервиса по аренде электросамокатов Яндекс.Самокат](https://docs.google.com/spreadsheets/d/1_zWVVO1pjdvMqEEPzasXZO24IaWGbqqaHK7iRXa-Td0/edit?usp=sharing)
 - [Баг-репорты, "Яндекс.Самокат"](https://docs.google.com/spreadsheets/d/16s-BRjcjf_Ni-Cgf2-DTJ-ygGco6oLUQmfqNe1UTvfM/edit?usp=sharing)
 - [Тестирование мобильного приложения Яндекс.Метро](https://docs.google.com/spreadsheets/d/1yDf8FO8l1fWXo6rU55gnSlxhnHzVAf6jf3Rwdl2MrcU/edit?usp=sharing)
