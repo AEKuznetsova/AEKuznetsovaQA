@@ -16,4 +16,7 @@
 ## Fitness Online
 - [Баг-репорты (прод)](https://docs.google.com/spreadsheets/d/1E7hwMvoTxgIHH6uf7_plKVnzuQv6ig_Qf1TOBQxkgws/edit?usp=sharing)
 
+## RLT
+- [Тестирование основной функциональности мини-магазина](https://docs.google.com/spreadsheets/d/1bjVKi5CNBwtCZXGT2-rhSeGRZJ0BIVqhNyGU73vqzBw/edit?usp=sharing)
+
 ##### [На главную страницу портфолио](./README.md)
