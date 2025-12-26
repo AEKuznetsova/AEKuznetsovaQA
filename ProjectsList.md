@@ -13,10 +13,13 @@
 - [Регрессионное тестирование веб-приложения для размещения фотографий "Место"](https://docs.google.com/spreadsheets/d/1DYtu52l19_PHbZYe4nWa5TnNf1f2eZ4ugB6dClY8jog/edit?usp=sharing)
 - [Ретест багов сервиса просмотра фотографий "Место"](https://docs.google.com/spreadsheets/d/1WHaaR_uy6d9KTkZxgw0d0YRUpXMRz0ZPJqolLN3UpJQ/edit?usp=sharing)
 
-## Fitness Online
+## Мобильное приложение Fitness Online
 - [Баг-репорты (прод)](https://docs.google.com/spreadsheets/d/1E7hwMvoTxgIHH6uf7_plKVnzuQv6ig_Qf1TOBQxkgws/edit?usp=sharing)
 
 ## RLT
 - [Тестирование основной функциональности мини-магазина](https://docs.google.com/spreadsheets/d/1bjVKi5CNBwtCZXGT2-rhSeGRZJ0BIVqhNyGU73vqzBw/edit?usp=sharing)
+
+## Online RPG игра "Батл Арена"
+- [Тестирование окна настроек, чек-лист на персонажа, майнд-карта и предложения по UX](https://docs.google.com/spreadsheets/d/1KKI7HZrB1LdxuYt-Wnksl8qGT04_hLruYL9B7c2sHQU/edit?usp=sharing)
 
 ##### [На главную страницу портфолио](./README.md)
