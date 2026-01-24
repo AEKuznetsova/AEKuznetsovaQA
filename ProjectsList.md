@@ -22,4 +22,7 @@
 ## Online RPG игра "Батл Арена"
 - [Тестирование окна настроек, чек-лист на персонажа, майнд-карта и предложения по UX](https://docs.google.com/spreadsheets/d/1KKI7HZrB1LdxuYt-Wnksl8qGT04_hLruYL9B7c2sHQU/edit?usp=sharing)
 
+## Модульбанк
+- [Чек-лист для проверки правил работы кэшбека](https://docs.google.com/document/d/1GtuQyWVzrpH1rxkeB-QEO1y-Pp1Z6zaRjICjuCzK5Hk/edit?usp=sharing)
+
 ##### [На главную страницу портфолио](./README.md)
